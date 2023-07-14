@@ -1,0 +1,28 @@
+{
+  "name": "request-animation-frame",
+  "version": "1.0.0",
+  "description": "This module is design to recreate the behaviour of window.requestAnimationFrame that is present on browser but not implemented inside nodejs. Can be usefull for Server communication to graphical front.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/apayetRun/node-request-animation-frame.git"
+  },
+  "keywords": [
+    "node",
+    "request",
+    "animation",
+    "frame",
+    "server",
+    "side",
+    "pace"
+  ],
+  "author": "apayet",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/apayetRun/node-request-animation-frame/issues"
+  },
+  "homepage": "https://github.com/apayetRun/node-request-animation-frame#readme"
+}
